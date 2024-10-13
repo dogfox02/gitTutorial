@@ -1,0 +1,2 @@
+# gitTutorial
+using git atributes
