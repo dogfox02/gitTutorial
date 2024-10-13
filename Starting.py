@@ -1,6 +1,9 @@
+from work import working
 
-b = 2
+b = 8
 a = b + 3
 
 if a > 4 :
-    print("Я начал работать с гитхабом")
+    print("Я начинаю работать с гитхабом")
+
+working(a)
